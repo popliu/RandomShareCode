@@ -1,2 +1,2 @@
-## RamDomShareCode
+## RandomShareCode
 ### For Myself
